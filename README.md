@@ -3,6 +3,8 @@ The Senior Management team from our client, a supermarket chain, are disagreeing
 
 They have asked us to use data, and Machine Learning to help segment up their customers based upon their engagement with each of the major food categories - aiding business understanding of the customer base, and to enhance the relevancy of targeted messaging & customer communications.
 
+![image](https://github.com/user-attachments/assets/a3cf3e3d-15e2-4976-8211-d86963106400) ![image](https://github.com/user-attachments/assets/87f52d23-a804-499e-b81e-e6d9290a0e52)
+
 
 
 ### Actions

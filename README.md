@@ -15,7 +15,7 @@ As k-means is an unsupervised learning approach, in other words there are no lab
 Based upon this, we apply the k-means algorithm onto the product area data, append the clusters to our customer base, and then profile the resulting customer segments to understand what the differentiating factors were!
 
 
-Results
+### Results
 Based upon iterative testing using WCSS we settled on a customer segmentation with 3 clusters. These clusters ranged in size, with Cluster 0 accounting for 73.6% of the customer base, Cluster 2 accounting for 14.6%, and Cluster 1 accounting for 11.8%.
 
 There were some extremely interesting findings from profiling the clusters.
